@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>LEARN PROGRAMMING LANGUAGE</title>
+  <meta name="web project" content="test web project">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="maro2.css">
+  <link rel="stylesheet" href="normalize.css">
+  
+  
+
+</head>
+
+<body class="body1 container">
+  <h1>MAECILENO REDA RAMZY</h1>
+
+  <p class="pp container">
+    < THE PROGRAMMING LANGUAGE FROM WEB DEVALPER:>
+  </p>
+
+
+
+  <ol class="LANG2 ">
+    <li>HTML=><a href="#"target="self" >LEARN Html:</a> </li>
+    <li>CSS=><a href="#"target="self" >LEARN CSS:</a></li>
+    <li>JS=><a href="#"target="self" >LEARN JS:</a></li>
+    <li>PHP=><a href="#"target="self">LEARN PHP:</a></li>
+    <li>DJANGO=><a href="#"target="self">LEARN DJANGO:</a></li>
+    <li>PYTHON=><a href="#" target="self">LEARN PYTHON:</a></li>
+    <li>NODEJS=><a href="#"target="self" >LEARN NODEJS:</a></li>
+    <li> MY SQL=><a href="#"target="self">LEARN MY SQL:</a></li>
+    <li>SQL LITE=><a href="#"target="self">LEARN SQL LITE:</a></li>
+    <li>SQL SERVER=><a href="#"target="self">LEARN SQL SERVER:</a></li>
+  </ol>
+  <br>
+
+  <div class="det container">
+    <details>
+      <summary class="sum1">LANGUAGE FROM FRONT END WEB</summary>
+      <P>1:HTML </P>
+      <P>2:CSS</P>
+      <P>3:js</P>
+
+    </details>
+  </div><br>
+
+  <div class="det2 container">
+    <details>
+      <summary class="sum2 container">LANGUAGE FROM BACK END WEB</summary>
+      <P>1:PHP</P>
+      <P>2:DJANGO</P>
+      <P>3:PYTHON</P>
+      <P>4:NODEJS</P>
+
+    </details>
+  </div><br>
+
+  <div class="det3 container">
+    <details>
+      <summary class="sum3 container">LANGUAGE FROM DATE BASE WEB</summary>
+      <p>1:MY SQL</p>
+      <p>2:SQL LITE</p>
+      <p>3:SQL SERVER</p>
+    </details>
+  </div>
+  <hr><br>
+
+
+
+
+  <p class="pp2 container">
+    < THE PROGRAMMING LANGUAGE FROM MOBILE APP:>
+  </p>
+
+  <ol class="LANG3 ">
+    <li>iOS:SWIFT =><a href="#"target="self" >LEARN SWIFT:</a></li>
+    <li>Android:JAVA =><a href="#"target="self" >LEARN Android:JAVA:</a></li>
+    <li>C# =><a href="#"target="self" >LEARN C#:</a></li>
+  </ol><br>
+
+  <div class="app1 container">
+    <details>
+      <summary>LANGUAGE FROM MOBILE APP :Android</summary>
+      <p>1:JAVA</p>
+      <p>2:kotlin</p>
+    </details>
+  </div><br>
+
+  <div class="app4 container">
+    <details>
+      <summary>LANGUAGE FROM MOBILE APP :iOS</summary>
+      <p>1:SWIFT</p>
+    </details>
+  </div><br>
+  <br>
+  <hr>
+
+  <p class="ppp3 container">
+    < THE PROGRAMMING LANGUAGE FROM desktop APP:>
+  </p>
+
+
+  <ol class="LANG4 ">
+    <li>1:JAVA FX=><a href="#"target="self" >LEARN JAVA FX:</a></li>
+    <li>2:C#=><a href="#" target="self">LEARN C#:</a></li>
+    <li>3:PYTHON=><a href="#"target="self" >LEARN PYTHON:</a></li>
+    <li>4:SWIFT=><a href="#"target="self" >LEARN SWIFT:</a></li>
+  </ol>
+  <div class="desk1 container">
+    <details>
+      <summary>THE PROGRAMMING LANGUAGE FROM DESKTOP APP FROM: WINDOS:</summary>
+      <P>1:JAVA FX</P>
+      <P>2:C#</P>
+      <P>3:PYTHON</P>
+    </details>
+  </div>
+  <br>
+  <div class="desk2 container">
+    <details>
+      <summary>THE PROGRAMMING LANGUAGE FROM DESKTOP APP FROM: MAC iOS:</summary>
+      <p>1:SWIFT</p>
+      <p>2:PYTHON</p>
+    </details>
+  </div><br><br>
+
+  <div class="img1">
+    <img src="1111.png.png" alt="sad" width="480px" >
+  </div>
+
+
+
+
+
+
+
+
+  <script src="maro3.js"></script>
+</body>
+</html>
